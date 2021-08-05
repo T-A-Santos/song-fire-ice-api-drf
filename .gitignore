@@ -1,0 +1,5 @@
+*.sqlite3
+venv
+pov_characters.json
+books.json
+json_django.py
